@@ -1,0 +1,46 @@
+.un{
+    background-color:#9e1c3f;
+     display:flex;
+     justify-content:space-between;
+}
+.img{
+    margin: 10px;
+    padding: 10px;
+}
+ul{
+    list-style-type: none; 
+      margin: 10px; 
+      padding: 5px 50px ; 
+      display: flex;
+      color: white;
+}
+li{
+    padding: 5px;
+}
+.details{
+    background-color:#831238;
+    display: flex;
+    justify-content: space-between;
+}
+h4{
+    background-color:#9e1c3f;
+    margin-top:0px;
+    padding-left:10px ;
+}
+.mar{
+    display: flex;
+}
+.but{
+    display: flex;
+}
+label{
+    padding:20px 50px 30px ;
+}
+select{
+    margin:5px 50px 30px ;
+}
+button{
+    background-color: rgb(187, 131, 26);
+    color: white;
+    padding: 20px;
+}
